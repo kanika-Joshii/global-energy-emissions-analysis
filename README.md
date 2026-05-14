@@ -151,7 +151,7 @@ This analysis is directly useful for:
 - **NGOs and researchers** — communicate the pace (and slowness) of the global energy transition
 
 ---
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://global-energy-emissions-analysis-auqdistaemefix9ee2wzse.streamlit.app)
 
 
 ## 📄 License
